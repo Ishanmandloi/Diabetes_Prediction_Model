@@ -4,7 +4,7 @@
 This project is a **Diabetes Prediction Model** built using **Support Vector Machine (SVM)** in Python. It utilizes the **PIMA Indian Diabetes Dataset**, performing **exploratory data analysis (EDA), feature scaling, and model training** to predict whether a person has diabetes based on medical attributes.  
 
 ## 📂 Dataset  
-The dataset consists of **8 independent variables** (e.g., glucose level, BMI, insulin, etc.) and **1 dependent variable (`Outcome`)**, where:  
+The dataset is taken from kaggle's Pima Indians Diabetes Dataset,consists of **8 independent variables** (e.g., glucose level, BMI, insulin, etc.) and **1 dependent variable (`Outcome`)**, where:  
 - `0` indicates a person is **not diabetic**  
 - `1` indicates a person **has diabetes**  
 
